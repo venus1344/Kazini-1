@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+# Kazini 
+Kazini platform consists of web-platforms (both website and web applications) and USSD platform where either job hirers and job seekers 
+can link and service each other. The platform is mainly a broker system where information on job opportunity and seek is exchanged.
 
-You can use the [editor on GitHub](https://github.com/Scarlett-Penny/Kazini/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Into the story
+In the streets are lots of unemployed youths who have either credentials to get the job but miss opportunities or do not have the 
+credentials. Most demand even day labour or work per short term that's available to them. Some are enterprenuers who have limited
+region of business, and would want to provide the services far beyond their locations i.e expand. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
